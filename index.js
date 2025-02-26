@@ -32,6 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <p>has almost completed the</p>
         <h3>${courseName}</h3>
         <p>with legendary perseverance and world-class bad-assery for never giving up 🏆</p>
+        <img src="logo.png" alt="Code Space logo" />
         <p>${personalMessage}</p>
       `;
       //  Display the modal
