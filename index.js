@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <p>has almost completed the</p>
         <h2>${courseName}</h2>
         
-        <p style="display: none;">with legendary perseverance and world-class bad-assery for never giving up 🏆</p>
+        <p>with legendary perseverance and world-class bad-assery for never giving up 🏆</p>
         <img src="logo.png" alt="Code Space logo" style="width: 50%;" />
        
         <p>${personalMessage}</p>
