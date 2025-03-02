@@ -52,9 +52,8 @@ document.addEventListener('DOMContentLoaded', function () {
   
     //  🚨 Close the modal when the close button is clicked
     closeModal.addEventListener('click', function (e) {
-      closeModal.style.cursor = 'pointer';
       modal.style.display = 'none';
     });
-    
+    closeModal.style.cursor = 'pointer';
   });
   
